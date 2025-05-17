@@ -1,3 +1,15 @@
-Flask
-python3.9
-and much more shit ill put later 
+flask
+openai
+torch
+transformers
+matplotlib
+nltk
+scikit-learn
+textblob
+speechrecognition
+pyaudio
+flask_cors
+python-dotenv
+gtts
+flask-socketio
+eventlet
